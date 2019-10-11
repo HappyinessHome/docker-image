@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8skafka:v1
+FROM quay.io/calico/node:v1.3.0
