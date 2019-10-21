@@ -1,1 +1,1 @@
-FROM query.io/calico/pod2daemon-flexvol:v3.9.2
+FROM quay.io/calico/pod2daemon-flexvol:v3.9.2
